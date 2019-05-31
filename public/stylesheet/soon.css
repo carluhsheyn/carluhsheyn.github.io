@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+body {
+  background: url("../images/soon1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+}
+
+.block {
+  background-color: rgba(213, 184, 184, 0.9);
+  height: 100%;
+}
+
+.logo {
+  background-color: rgb(200, 117, 117);
+  height: 125px;
+  width: 120px;
+  margin-left: 5%;
+}
+
+.text {
+  font-family: "Lato", sans-serif;
+  font-size: 80px;
+}
